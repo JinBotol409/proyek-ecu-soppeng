@@ -1,0 +1,19 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://idsrepair.com",
+      "service-doc": [
+        {
+          "href": "https://idsrepair.composts/repair/index.php",
+          "type": "text/html"
+        }
+      ],
+      "status": [
+        {
+          "href": "https://idsrepair.comindex.php",
+          "type": "text/html"
+        }
+      ]
+    }
+  ]
+}

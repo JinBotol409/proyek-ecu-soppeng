@@ -1,0 +1,10 @@
+{
+  "resource": "https://idsrepair.com",
+  "authorization_servers": [
+    "https://idsrepair.com"
+  ],
+  "scopes_supported": [
+    "read",
+    "write"
+  ]
+}

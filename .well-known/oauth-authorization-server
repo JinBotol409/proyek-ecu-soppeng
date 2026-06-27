@@ -1,0 +1,20 @@
+{
+  "issuer": "https://idsrepair.com",
+  "authorization_endpoint": "https://idsrepair.com",
+  "token_endpoint": "https://idsrepair.com",
+  "jwks_uri": "https://idsrepair.com",
+  "grant_types_supported": [
+    "authorization_code",
+    "client_credentials"
+  ],
+  "response_types_supported": [
+    "code"
+  ],
+  "scopes_supported": [
+    "read",
+    "write"
+  ],
+  "token_endpoint_auth_methods_supported": [
+    "client_secret_post"
+  ]
+}
