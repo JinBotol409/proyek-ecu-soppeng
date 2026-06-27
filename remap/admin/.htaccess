@@ -1,0 +1,3 @@
+<FilesMatch "(callback_log\.txt|duitku_callback_log\.txt)$">
+Require all denied
+</FilesMatch>
