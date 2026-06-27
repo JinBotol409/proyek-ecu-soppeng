@@ -1,0 +1,6 @@
+<FilesMatch "(cleanup_log.txt)$">
+Require all denied
+</FilesMatch>
+<FilesMatch "(htaccess)$">
+Require all denied
+</FilesMatch>
