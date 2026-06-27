@@ -1,0 +1,19 @@
+{
+  "$schema": "https://modelcontextprotocol.io",
+  "version": "1.0.0",
+  "protocolVersion": "2025-06-18",
+  "serverInfo": {
+    "name": "idsrepair-agent-node",
+    "version": "1.0.0",
+    "description": "IDS Repair official content agent service node"
+  },
+  "transport": {
+    "type": "streamable-http",
+    "endpoint": ""
+  },
+  "capabilities": {
+    "resources": [],
+    "tools": [],
+    "prompts": []
+  }
+}
