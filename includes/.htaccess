@@ -1,0 +1,16 @@
+<IfModule mod_headers.c>
+    # Aktifkan HSTS (hanya untuk folder ini dan turunannya)
+    Header always set Strict-Transport-Security "max-age=63072000; includeSubDomains; preload"
+
+    # Cross-Origin Opener Policy
+    Header always set Cross-Origin-Opener-Policy "same-origin"
+
+    # Cross-Origin Resource Policy
+    Header always set Cross-Origin-Resource-Policy "same-origin"
+</IfModule>
+
+Require all denied
+
+<FilesMatch "(htaccess)$">
+Require all denied
+</FilesMatch>
