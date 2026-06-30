@@ -2,14 +2,14 @@
 POST:
 Array
 (
-    [merchantCode] => D22874
+    [merchantCode] => D
     [amount] => 10000
     [merchantOrderId] => REMAP181780140159
     [productDetail] => Remap ECU IDSREPAIR
     [additionalParam] => 
     [resultCode] => 00
     [paymentCode] => BR
-    [merchantUserId] => idrismikro@gmail.com
+    [merchantUserId] => idrism@gmail.com
     [reference] => D2287426B8H0DVEXEUL57WQ
     [signature] => 8f4f89f3688008e0ee532fed2bd82f2b
     [publisherOrderId] => BR26I7VGSAZCE5QO40I
@@ -19,20 +19,20 @@ Array
 )
 
 RAW:
-merchantCode=D22874&amount=10000&merchantOrderId=REMAP181780140159&productDetail=Remap+ECU+IDSREPAIR&additionalParam=&resultCode=00&paymentCode=BR&merchantUserId=idrismikro%40gmail.com&reference=D2287426B8H0DVEXEUL57WQ&signature=8f4f89f3688008e0ee532fed2bd82f2b&publisherOrderId=BR26I7VGSAZCE5QO40I&settlementDate=2026-05-31&vaNumber=1308300598658937&sourceAccount=
+merchantCode=D2&amount=10000&merchantOrderId=REMAP181780140159&productDetail=Remap+ECU+IDSREPAIR&additionalParam=&resultCode=00&paymentCode=BR&merchantUserId=idrism%40gmail.com&reference=D2287426B8H0DVEXEUL57WQ&signature=8f4f89f3688008e0ee532fed2bd82f2b&publisherOrderId=BR26I7VGSAZCE5QO40I&settlementDate=2026-05-31&vaNumber=1308300598658937&sourceAccount=
 --------------------
 2026-06-07 07:52:23
 POST:
 Array
 (
-    [merchantCode] => D22874
+    [merchantCode] => D
     [amount] => 10000
     [merchantOrderId] => REMAP201780818302
     [productDetail] => Remap ECU IDSREPAIR
     [additionalParam] => 
     [resultCode] => 00
     [paymentCode] => SQ
-    [merchantUserId] => idrismikro@gmail.com
+    [merchantUserId] => idris@gmail.com
     [reference] => D2287426BA37LQ43VGYLZ6R
     [signature] => 7a9a76102c1ec9eec53a6188fb89fa6b
     [publisherOrderId] => SQ26GVUEETEQF7J64HC
@@ -41,21 +41,21 @@ Array
 )
 
 RAW:
-merchantCode=D22874&amount=10000&merchantOrderId=REMAP201780818302&productDetail=Remap+ECU+IDSREPAIR&additionalParam=&resultCode=00&paymentCode=SQ&merchantUserId=idrismikro%40gmail.com&reference=D2287426BA37LQ43VGYLZ6R&signature=7a9a76102c1ec9eec53a6188fb89fa6b&publisherOrderId=SQ26GVUEETEQF7J64HC&settlementDate=2026-06-09&issuerCode=93600002
+merchantCode=D&amount=10000&merchantOrderId=REMAP201780818302&productDetail=Remap+ECU+IDSREPAIR&additionalParam=&resultCode=00&paymentCode=SQ&merchantUserId=idriso%40gmail.com&reference=D26BA37LQ43VGYLZ6R&signature=7a9a76102c1ec9eec53a6188fb89fa6b&publisherOrderId=SQ26GVUEETEQF7J64HC&settlementDate=2026-06-09&issuerCode=93600002
 --------------------
 2026-06-07 07:53:26
 POST:
 Array
 (
-    [merchantCode] => D22874
+    [merchantCode] => D2
     [amount] => 10000
     [merchantOrderId] => REMAP201780818302
     [productDetail] => Remap ECU IDSREPAIR
     [additionalParam] => 
     [resultCode] => 00
     [paymentCode] => SQ
-    [merchantUserId] => idrismikro@gmail.com
-    [reference] => D2287426BA37LQ43VGYLZ6R
+    [merchantUserId] => idrisro@gmail.com
+    [reference] => D226BA37LQ43VGYLZ6R
     [signature] => 7a9a76102c1ec9eec53a6188fb89fa6b
     [publisherOrderId] => SQ26GVUEETEQF7J64HC
     [settlementDate] => 2026-06-09
@@ -63,7 +63,7 @@ Array
 )
 
 RAW:
-merchantCode=D22874&amount=10000&merchantOrderId=REMAP201780818302&productDetail=Remap+ECU+IDSREPAIR&additionalParam=&resultCode=00&paymentCode=SQ&merchantUserId=idrismikro%40gmail.com&reference=D2287426BA37LQ43VGYLZ6R&signature=7a9a76102c1ec9eec53a6188fb89fa6b&publisherOrderId=SQ26GVUEETEQF7J64HC&settlementDate=2026-06-09&issuerCode=93600002
+merchantCode=D4&amount=10000&merchantOrderId=REMAP201780818302&productDetail=Remap+ECU+IDSREPAIR&additionalParam=&resultCode=00&paymentCode=SQ&merchantUserId=idrisro%40gmail.com&reference=D2287426BA37LQ43VGYLZ6R&signature=7a9a76102c1ec9eec53a6188fb89fa6b&publisherOrderId=SQ26GVUEETEQF7J64HC&settlementDate=2026-06-09&issuerCode=93600002
 --------------------
 2026-06-07 16:27:08
 POST:
@@ -76,7 +76,7 @@ Array
     [additionalParam] => 
     [resultCode] => 00
     [paymentCode] => SQ
-    [merchantUserId] => idrismikro@gmail.com
+    [merchantUserId] => idriso@gmail.com
     [reference] => D2287426PGVJ5LOO7SINYIK
     [signature] => 4a1615d646fd854520414ff8fcf34956
     [publisherOrderId] => SQ26PGZXLDZJ360ZLEX
@@ -85,5 +85,5 @@ Array
 )
 
 RAW:
-merchantCode=D22874&amount=10000&merchantOrderId=REMAP211780848181&productDetail=Remap+ECU+IDSREPAIR&additionalParam=&resultCode=00&paymentCode=SQ&merchantUserId=idrismikro%40gmail.com&reference=D2287426PGVJ5LOO7SINYIK&signature=4a1615d646fd854520414ff8fcf34956&publisherOrderId=SQ26PGZXLDZJ360ZLEX&settlementDate=2026-06-09&issuerCode=93600002
+merchantCode74&amount=10000&merchantOrderId=REMAP211780848181&productDetail=Remap+ECU+IDSREPAIR&additionalParam=&resultCode=00&paymentCode=SQ&merchantUserId=idrismikro%40gmail.com&reference=D2PGVJ5LOO7SINYIK&signature=4a1615d646fd854520414ff8fcf34956&publisherOrderId=SQ26PGZXLDZJ360ZLEX&settlementDate=2026-06-09&issuerCode=93600002
 --------------------
