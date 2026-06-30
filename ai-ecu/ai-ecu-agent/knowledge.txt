@@ -1,0 +1,34 @@
+IDS ECU REPAIR melayani repair ECU, cloning ECU, IMMO OFF, diagnosa DTC, read/write ECU, dan remap file.
+
+Jika kendaraan no start:
+- cek tegangan aki
+- cek fuse dan relay utama
+- cek supply 12V dan ground ECU
+- cek komunikasi scanner
+- cek CKP/CMP
+- cek immobilizer
+- cek CAN High dan CAN Low
+
+Jika scanner tidak bisa komunikasi:
+- cek soket OBD
+- cek pin CAN
+- cek power ECU
+- cek ground ECU
+- cek short jalur komunikasi
+- cek kemungkinan ECU mati total
+
+Jika injector tidak keluar sinyal:
+- cek CKP
+- cek CMP
+- cek immobilizer
+- cek driver injector ECU
+- cek supply injector
+- cek DTC terkait fuel/injector
+
+Risiko write ECU:
+- aki drop
+- koneksi alat putus
+- file salah
+- checksum tidak benar
+- software number tidak sesuai
+- ECU bisa brick jika proses gagal
