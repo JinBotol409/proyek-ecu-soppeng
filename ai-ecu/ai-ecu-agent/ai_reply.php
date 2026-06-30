@@ -14,7 +14,7 @@ if ($question === '') {
     exit;
 }
 
-$apiKey = 'sk-proj-Ij9knJlPJuDDDtR7sv1P7-T3BlbkFJcSI3l9NWgQVrkuuE_RoMeJPwFCWZxltmixsjxmB9JE6l8duYXpvB7VlLdGNJk2j71plOHXWAMA';
+$apiKey = 'sk-pgQVrkuuE_RoMeJPwFCWZxltmixsjxmB9JE6l8duYXpvB7VlLdGNJk2j71plOHXWAMA';
 
 $knowledgeFile = __DIR__ . '/knowledge.txt';
 $knowledge = file_exists($knowledgeFile) ? file_get_contents($knowledgeFile) : '';
